@@ -89,3 +89,12 @@ git commit -m "test"
 rm .gitconfig 
 git config --global user.name "hyrkules"
 git config --global user.email "helouribeucherie@gmail.com"
+git add .
+git commit -m "adding project"
+ls
+cd clouddrive
+ls
+cd ..
+git status
+nano texttest
+git status
