@@ -167,3 +167,39 @@ git pull azure master --allow-unrelated-histories
 docker-build
 git push azure master 
 git status 
+git add .
+git commit -m "updating"
+git push
+git remote add azuretest https://github.com/Hyrkules/CloudComputing
+git push azuretest 
+git push --set-upstream azuretest master
+git status
+git status 
+git log
+git diff 8b6c0befc643f61f72cb7cb17d02f0967a437b3e b6c3094baa09f98f35967989ec9916ca507a598a
+git branch 
+git checkout *
+git status 
+git checkout master 
+git status 
+git files
+git ls
+git file
+git diff HEAD~1
+git diff HEAD~1 HEAD~2
+git show
+git show index.php
+git ls-tree
+git ls-tree index.php
+git index.php
+git ls-tree -r
+git ls-tree -r master 
+git show 23d56463cfaecf13ea6067073066c8d1514bb5ef
+docker pull
+git show https://projectazuredocker.scm.azurewebsites.net:443/ProjectAzureDocker.git
+git remote add mytest https://projectazuredocker.scm.azurewebsites.net/ProjectAzureDocker.git
+git sta
+git status 
+git add .
+git push mytest master 
+git status 
