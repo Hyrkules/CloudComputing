@@ -98,3 +98,72 @@ cd ..
 git status
 nano texttest
 git status
+git add .
+git commit
+git push
+git push azure main
+git push
+git remote add azure https://github.com/Hyrkules/CloudComputing
+git switch azure
+git checkout azure
+git remote add azure https://github.com/Hyrkules/CloudComputing
+git status
+git push
+git remote add azure https://github.com/Hyrkules/CloudComputing
+git remote add azure
+git remote add azure master
+git status
+git branch
+git push
+git remote add azure 
+git remote add azure https://github.com/Hyrkules/CloudComputing
+git push
+git remote add azure https://github.com/Hyrkules/CloudComputing
+git remote add testazure https://github.com/Hyrkules/CloudComputing
+git push
+git push azure 
+git push --set-upstream azure master
+git pull
+git pull main
+git pull master
+git status
+git pull
+git status
+git diff origin
+git status
+git pull azure 
+git pull https://github.com/Hyrkules/CloudComputing/
+git push
+git pull https://github.com/Hyrkules/CloudComputing/
+git status
+git push
+git push azure 
+git push --set-upstream azure master 
+git branch
+set url
+git clone git@github.com:Hyrkules/CloudComputing.git
+git status 
+git push azure master 
+> git remote set-url origin https://github.com/Hyrkules/CloudComputing
+git remote set-url origin https://github.com/Hyrkules/CloudComputing
+git remote set-url master https://github.com/Hyrkules/CloudComputing
+git remote set-url azure https://github.com/Hyrkules/CloudComputing
+git pull
+git status
+git pull azure 
+git status
+git pull
+git pull azure 
+git pull azure master 
+git pull azure master --force
+git status 
+git pull azure master --force
+git pull azure master 
+git pull azure master --allow-unrelated-histories
+git status 
+git log
+git status 
+git pull azure master --allow-unrelated-histories
+docker-build
+git push azure master 
+git status 
